@@ -1,0 +1,20 @@
+Table Name,State Code,District Code,India/States,Division,Group,Class,NIC Name,TotalPersons,Main Workers - Total - Males,Main Workers - Total - Females,Main Workers - Rural -  Persons,Main Workers - Rural - Males,Main Workers - Rural - Females,Main Workers - Urban -  Persons,Main Workers - Urban - Males,Main Workers - Urban - Females,Marginal Workers - Total -  Persons,Marginal Workers - Total - Males,Marginal Workers - Total - Females,Marginal Workers - Rural -  Persons,Marginal Workers - Rural - Males,Marginal Workers - Rural - Females,Marginal Workers - Urban -  Persons,Marginal Workers - Urban - Males,Marginal Workers - Urban - Females
+B0218SC,`33,`000,STATE - TAMIL NADU,`00,`000,`0000,Total,2568994,1849620,719374,1120556,801901,318655,1448438,1047719,400719,450227,248895,201332,256753,137081,119672,193474,111814,81660
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`000,`0000,"Crop and animal production, hunting and related service activities",139687,78418,61269,70583,40993,29590,69104,37425,31679,26116,13781,12335,17278,9222,8056,8838,4559,4279
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0000,Growing of non-perennial crops,770,503,267,406,269,137,364,234,130,257,87,170,126,48,78,131,39,92
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0111,"Growing of cereals (except rice), leguminous crops and oil seeds",88,77,11,39,33,6,49,44,5,6,3,3,3,3,0,3,0,3
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0112,Growing of rice,12,6,6,9,3,6,3,3,0,48,24,24,0,0,0,48,24,24
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0113,"Growing of vegetables and melons, roots and tubers",314,223,91,133,107,26,181,116,65,22,15,7,8,6,2,14,9,5
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0114,Growing of sugar cane,173,119,54,137,93,44,36,26,10,37,29,8,31,23,8,6,6,0
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0116,Growing of fibre crops,35,27,8,26,18,8,9,9,0,14,0,14,12,0,12,2,0,2
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`011,`0119,Growing of other non-perennial crop,148,51,97,62,15,47,86,36,50,130,16,114,72,16,56,58,0,58
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0000,Growing of perennial crops,64149,30628,33521,24967,12300,12667,39182,18328,20854,5250,2580,2670,2032,1109,923,3218,1471,1747
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0121,Growing of grapes,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0122,Growing of tropical and subtropical fruits,68,52,16,46,38,8,22,14,8,17,11,6,17,11,6,0,0,0
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0124,Growing of pome fruits and stone fruits,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0125,Growing of other tree and bush fruits and nuts,139,76,63,79,41,38,60,35,25,33,21,12,22,12,10,11,9,2
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0126,Growing of oleaginous fruits,4491,3564,927,3126,2429,697,1365,1135,230,613,491,122,466,378,88,147,113,34
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0127,Growing of beverage crops,58431,26269,32162,21422,9633,11789,37009,16636,20373,4510,1999,2511,1487,682,805,3023,1317,1706
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0128,"Growing of spices, aromatic, drug and pharmaceutical crops",358,195,163,58,37,21,300,158,142,3,0,3,0,0,0,3,0,3
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`012,`0129,Growing of other perennial crops,653,463,190,230,116,114,423,347,76,74,58,16,40,26,14,34,32,2
+B0218SC,`33,`000,STATE - TAMIL NADU,`01,`013,`0000,Plant propagation,118,77,41,52,44,8,66,33,33,15,12,3,0,0,0,15,12,3
